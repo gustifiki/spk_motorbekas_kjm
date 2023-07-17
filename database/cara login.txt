@@ -1,0 +1,7 @@
+pengunjung:
+username = gusti
+password = gusti
+
+admin :
+username = admin
+password = 123
